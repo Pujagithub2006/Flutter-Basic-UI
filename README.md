@@ -1,4 +1,4 @@
-# flutter_app1
+# flutter_basic_ui
 
 A new Flutter project.
 
